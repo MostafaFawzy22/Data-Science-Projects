@@ -1,0 +1,4 @@
+{
+    "git.ignoreLimitWarning": true,
+    "dotnet.defaultSolution": "WebApplication1.sln"
+}
